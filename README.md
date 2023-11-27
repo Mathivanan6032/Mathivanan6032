@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+  I'm Mathi,a BE graduate currently enrolled in *Generation learner* program to enhance my skills. My short term goal is to get placed in a reputed organisation where i can get properly recognized and be a benchmark in my field of work.
+## Things I love to do...
+  As a 20+ i'm much interested in hangout with friends and exploring things like going tour with friends and long rides. Im a *music lover* love to sing songs and chill with friends
+## Qualifications
+  1. BE Graduate
+  2. skills - C,C++,HTML.
+     
+  
